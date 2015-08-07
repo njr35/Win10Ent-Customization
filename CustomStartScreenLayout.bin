@@ -1,0 +1,14 @@
+<LayoutModificationTemplate Version="1" xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification">
+  <DefaultLayoutOverride>
+    <StartLayoutCollection>
+      <defaultlayout:StartLayout GroupCellWidth="6" xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout">
+        <start:Group Name="" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout">
+          <start:DesktopApplicationTile Size="2x2" Column="0" Row="0" DesktopApplicationID="Citrix.Receiver" />
+          <start:DesktopApplicationTile Size="2x2" Column="2" Row="0" DesktopApplicationID="Chrome" />
+          <start:DesktopApplicationTile Size="2x2" Column="2" Row="2" DesktopApplicationID="{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office14\EXCEL.EXE" />
+          <start:DesktopApplicationTile Size="2x2" Column="0" Row="2" DesktopApplicationID="{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office14\WINWORD.EXE" />
+        </start:Group>
+      </defaultlayout:StartLayout>
+    </StartLayoutCollection>
+  </DefaultLayoutOverride>
+</LayoutModificationTemplate>
